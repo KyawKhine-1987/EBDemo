@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EventBus</string>
+    <string name="main">MainActivity</string>
+    <string name="title_activity_child">ChildActivity</string>
+    <string name="results_will_appear_here">Results will appear here.</string>
+    <string name="trigger">Trigger Event</string>
+    <string name="launch">Launch Child</string>
+
+</resources>
